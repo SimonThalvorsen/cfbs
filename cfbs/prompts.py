@@ -1,6 +1,7 @@
 import sys
 
 YES_NO_CHOICES = ("yes", "y", "no", "n")
+import sys
 
 
 def prompt_user(non_interactive: bool, prompt: str, choices=None, default=None):
